@@ -30,3 +30,5 @@ Project Workflow:-
 .Created KPI cards for key metrics (Total Employees, Attrition Count, Attrition Rate, etc.
 .Used charts and visual elements for better storytelling.
 .Ensured insights can be understood within seconds of viewing the dashboard.
+
+DASHBOARD:- [Dashboard Preview].(https://github.com/sameerkhan774419-ux/HR-analytics-dashboard/blob/main/hr%20analytics%20power%20bi.png).
